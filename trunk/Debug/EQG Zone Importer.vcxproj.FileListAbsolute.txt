@@ -1,0 +1,2 @@
+D:\EQG2\trunk\Debug\EQG Zone Importer.exe
+D:\EQG2\trunk\Debug\EQG Zone Importer.pdb
